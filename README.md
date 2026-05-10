@@ -21,6 +21,7 @@ I wrote an article that is an answer to all of these questions.
 - [Developer Roadmaps](#developer-roadmaps)
 - [Hard Skills Research](#hard-skills-research)
 - [Soft Skills](#soft-skills)
+- [Portfolio](#portfolio)
 - [Interviewing](#interviewing)
 - [Recommended Books](#recommended-books)
 - [CV Writing](#cv-writing)
@@ -76,10 +77,29 @@ You will need the following soft skills:
 - adapting to different people types,
 - system thinking.
 
+## Portfolio
+
+Generally hiring managers and even developers rarely check your portfolio. They are looking for company based work experience.
+
+However sometimes it can be useful to have some projects to show.
+
+Projects are useful for personal development or as a coding journal.
+
+If you want to show a project to a company, make sure
+
+- it is related to the given business domain (eg. for a fintech company, show a fintech project)
+- it has documentation
+- it has unit tests
+- it can be scaled
+- it has architecture diagrams.
+
 ### Recommended Soft Skill Books
 
+- [How to Solve It by George Polya](https://www.amazon.com/How-Solve-Mathematical-Princeton-Science/dp/069116407X/ref=sr_1_1)
+- [Lateral Thinking: Creativity Step by Step by Edward De Bono](https://www.amazon.com/Lateral-Thinking-Creativity-Step/dp/0060903252/ref=sr_1_1)
 - [Emotional Intelligence 2.0 by T. Bradberry, J. Greaves, P. M. Lencioni](https://www.amazon.com/Emotional-Intelligence-2-0-Travis-Bradberry/dp/0974320625/ref=sr_1_1)
 - [The Clean Coder: A Code of Conduct for Professional Programmers by Robert Martin](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)
+- [Nonviolent Communication by M. B. Rosenberg](https://www.amazon.com/Nonviolent-Communication-Language-Life-Changing-Relationships/dp/189200528X/ref=sr_1_1)
 
 ## Interviewing
 
