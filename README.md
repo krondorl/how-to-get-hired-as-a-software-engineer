@@ -79,6 +79,14 @@ You will need the following soft skills:
 - adapting to different people types,
 - system thinking.
 
+### Recommended Soft Skill Books
+
+- [How to Solve It by George Polya](https://www.amazon.com/How-Solve-Mathematical-Princeton-Science/dp/069116407X/ref=sr_1_1)
+- [Lateral Thinking: Creativity Step by Step by Edward De Bono](https://www.amazon.com/Lateral-Thinking-Creativity-Step/dp/0060903252/ref=sr_1_1)
+- [Emotional Intelligence 2.0 by T. Bradberry, J. Greaves, P. M. Lencioni](https://www.amazon.com/Emotional-Intelligence-2-0-Travis-Bradberry/dp/0974320625/ref=sr_1_1)
+- [The Clean Coder: A Code of Conduct for Professional Programmers by Robert Martin](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)
+- [Nonviolent Communication by M. B. Rosenberg](https://www.amazon.com/Nonviolent-Communication-Language-Life-Changing-Relationships/dp/189200528X/ref=sr_1_1)
+
 ## Portfolio
 
 Generally hiring managers and even developers rarely check your portfolio. They are looking for company based work experience.
@@ -108,14 +116,6 @@ Here are some articles on creating a good profile:
 - [How To Actually Write A LinkedIn Profile Worth Reading](https://www.reddit.com/r/freelanceWriters/comments/znrbt2/how_to_actually_write_a_linkedin_profile_worth/)
 
 [Check out your SSI (Social Selling Index) every month.](https://www.linkedin.com/sales/ssi)
-
-### Recommended Soft Skill Books
-
-- [How to Solve It by George Polya](https://www.amazon.com/How-Solve-Mathematical-Princeton-Science/dp/069116407X/ref=sr_1_1)
-- [Lateral Thinking: Creativity Step by Step by Edward De Bono](https://www.amazon.com/Lateral-Thinking-Creativity-Step/dp/0060903252/ref=sr_1_1)
-- [Emotional Intelligence 2.0 by T. Bradberry, J. Greaves, P. M. Lencioni](https://www.amazon.com/Emotional-Intelligence-2-0-Travis-Bradberry/dp/0974320625/ref=sr_1_1)
-- [The Clean Coder: A Code of Conduct for Professional Programmers by Robert Martin](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)
-- [Nonviolent Communication by M. B. Rosenberg](https://www.amazon.com/Nonviolent-Communication-Language-Life-Changing-Relationships/dp/189200528X/ref=sr_1_1)
 
 ## Interviewing
 
