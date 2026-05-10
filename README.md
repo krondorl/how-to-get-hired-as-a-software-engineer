@@ -76,11 +76,22 @@ You will need the following soft skills:
 - adapting to different people types,
 - system thinking.
 
+### Recommended Soft Skill Books
+
+- [Emotional Intelligence 2.0 by T. Bradberry, J. Greaves, P. M. Lencioni](https://www.amazon.com/Emotional-Intelligence-2-0-Travis-Bradberry/dp/0974320625/ref=sr_1_1)
+- [The Clean Coder: A Code of Conduct for Professional Programmers by Robert Martin](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)
+
 ## Interviewing
 
 I would recommend doing at least 20–30 test interviews at different companies just for the sake of practice.
 
 Interviewing is a skill in itself.
+
+You can practice also with mock interviews at these sites:
+
+- [Interviewing.io](https://interviewing.io/)
+- [Exponent](https://www.tryexponent.com/practice)
+- [Hello Interview](https://www.hellointerview.com/)
 
 ## Recommended Books
 
