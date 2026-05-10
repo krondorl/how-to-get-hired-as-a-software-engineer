@@ -130,8 +130,7 @@ This book contains comprehensive hard and soft skills development for every soft
 - Stick to 1–2 pages maximum. You only need to write about the last 5–10 years.
 - Create 2–3 master CVs and spend 5 minutes to tailor the CV to the job posting (order keywords, use normal and bold text, delete what is not relevant).
 
-Use Gergely Orosz’s template for making a CV.
-https://blog.pragmaticengineer.com/the-pragmatic-engineers-resume-template/
+[Use Gergely Orosz’s template for making a CV.](https://blog.pragmaticengineer.com/the-pragmatic-engineers-resume-template/)
 
 ## Targeting the Hidden Job Market
 
