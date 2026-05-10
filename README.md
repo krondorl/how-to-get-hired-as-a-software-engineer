@@ -22,6 +22,7 @@ I wrote an article that is an answer to all of these questions.
 - [Hard Skills Research](#hard-skills-research)
 - [Soft Skills](#soft-skills)
 - [Portfolio](#portfolio)
+- [LinkedIn Profile](#linkedin-profile)
 - [Interviewing](#interviewing)
 - [Recommended Books](#recommended-books)
 - [CV Writing](#cv-writing)
@@ -92,6 +93,20 @@ If you want to show a project to a company, make sure
 - it has unit tests
 - it can be scaled
 - it has architecture diagrams.
+
+## LinkedIn Profile
+
+LinkedIn is as excellent platform for company and staff research and for blogging.
+
+If you do blogging, recruiters often send you inbound messages about job opportunities.
+
+Here are some articles on creating a good profile:
+
+- [10 top tips for creating an effective LinkedIn profile](https://www.manpowergroup.co.uk/c_10-top-tips-for-creating-an-effective-linkedin-profile/)
+- [Create a good LinkedIn profile](https://wordsforlife.org.uk/activities/how-create-good-linkedin-profile/)
+- [How To Actually Write A LinkedIn Profile Worth Reading](https://www.reddit.com/r/freelanceWriters/comments/znrbt2/how_to_actually_write_a_linkedin_profile_worth/)
+
+[Check out your SSI (Social Selling Index) every month.](https://www.linkedin.com/sales/ssi)
 
 ### Recommended Soft Skill Books
 
