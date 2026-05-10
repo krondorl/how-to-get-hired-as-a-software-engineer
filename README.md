@@ -33,6 +33,7 @@ I wrote an article that is an answer to all of these questions.
 - [Hybrid Jobs](#hybrid-jobs)
 - [Internships](#internships)
 - [Avoiding Ghost Jobs](#avoiding-ghost-jobs)
+- [Job Search Tracking Table](#job-search-tracking-table)
 - [Real Success Stories](#real-success-stories)
 - [Disclaimer](#disclaimer)
 
@@ -262,6 +263,19 @@ Ghost Job Signals:
 - no application confirmation
 - no automated email confirmation
 - low company response rate
+
+## Job Search Tracking Table
+
+It is worth creating a table in a spreadsheet to track applications.
+
+Example table
+
+| Recruiter       | Company   | Position                       | Status             | First Date  | Latest Date | Result              |
+| --------------- | --------- | ------------------------------ | ------------------ | ----------- | ----------- | ------------------- |
+| John Dalton     | X Company | Senior Full Stack Developer    | telephone, email   | 2026.04.14. | 2026.04.23. | offer               |
+| Julia Amm       | Y Company | Senior Frontend Developer      | email              | 2026.04.14. | 2026.04.23. | interview next week |
+| Petra Rice      | Z Company | Senior Backend Developer       | Linkedin message   | 2026.04.14. | 2026.04.23. | interview next week |
+| Christina Lexin | T Company | Mid-level Full Stack Developer | interview tomorrow | 2026.04.14. | 2026.04.23. | interview next week |
 
 ## Real Success Stories
 
