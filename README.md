@@ -34,6 +34,7 @@ I wrote an article that is an answer to all of these questions.
 - [Hybrid Jobs](#hybrid-jobs)
 - [Internships](#internships)
 - [Avoiding Ghost Jobs](#avoiding-ghost-jobs)
+- [Choosing an Industry](#choosing-an-industry)
 - [Job Search Tracking Table](#job-search-tracking-table)
 - [Real Success Stories](#real-success-stories)
 - [Disclaimer](#disclaimer)
@@ -284,6 +285,22 @@ Ghost Job Signals:
 - no application confirmation
 - no automated email confirmation
 - low company response rate
+
+## Choosing an Industry
+
+There is more to software engineering job than Big Tech only.
+
+Check out these alternatives.
+
+| You like…                | Look at…                                                |
+| ------------------------ | ------------------------------------------------------- |
+| Low-level / performance  | Robotics, automotive, aerospace, embedded, audio DSP    |
+| Distributed systems      | Fintech, telecom, logistics, energy, cybersecurity      |
+| Product + business logic | Banking, insurance, legal tech, travel, e-commerce      |
+| Data-heavy work          | Biotech, climate tech, fintech, healthcare, agriculture |
+| Social impact            | Healthcare, climate, government, education              |
+| Creative work            | Music tech, gaming, media tools                         |
+| Stability                | Banking, insurance, healthcare, government, utilities   |
 
 ## Job Search Tracking Table
 
