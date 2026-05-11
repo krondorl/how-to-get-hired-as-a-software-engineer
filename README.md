@@ -22,6 +22,7 @@ I wrote an article that is an answer to all of these questions.
 - [Hard Skills Research](#hard-skills-research)
 - [Soft Skills](#soft-skills)
 - [Portfolio](#portfolio)
+- [AI Usage](#ai-usage)
 - [LinkedIn Profile](#linkedin-profile)
 - [Interviewing](#interviewing)
 - [Recommended Books](#recommended-books)
@@ -102,6 +103,26 @@ If you want to show a project to a company, make sure
 - it has unit tests
 - it can be scaled
 - it has architecture diagrams.
+
+## AI Usage
+
+Before you generate lots of code with AI, you need to know the fundamentals well.
+
+This means:
+
+- Computer Science
+- Data Structures and Algorithms
+- Design Patterns
+- Refactoring
+- System Design
+
+Make sure you understand the generated code before using it.
+
+Recommended articles:
+
+- [The naked truth about AI-assisted coding](https://krasimirtsonev.com/blog/article/the-naked-truth-about-ai-assisted-coding)
+- [Practical Use Of AI Coding Tools For The Responsible Developer](https://www.smashingmagazine.com/2026/01/practical-use-ai-coding-tools-responsible-developer/)
+- [Responsible Use of AI in Coding](https://dev.to/zrm9901/responsible-use-of-ai-in-coding-5061)
 
 ## LinkedIn Profile
 
@@ -283,9 +304,13 @@ The situation and the job market are difficult, but there is still room for succ
 
 I anonymized all the people in these cases.
 
-- John, a Senior Backend Engineer from Europe (8+ years of work experience), found a job in 6 weeks in 2026.
-- Axel, a Senior Frontend and Full Stack Engineer from Europe (10+ years of work experience), found a job in 4 weeks in 2026.
-- Brad, a Junior Automation Test Engineer (3 years of prep, 0 work experience) in Europe, found his first job in around 4–6 months in 2025.
+- John, a Senior Backend Engineer from Europe (8+ years of work experience), found a job in **6 weeks** in 2026.
+- Axel, a Senior Frontend and Full Stack Engineer from Europe (10+ years of work experience), found a job in **4 weeks** in 2026.
+- Brad, a Junior Automation Test Engineer (3 years of prep, **0 work experience**) in Europe, found his first job in around **4–6 months** in 2025.
+
+**Warning:** years of work experience and seniority doesn't guarantee that you will be hired. These are only proofs that a person can get a job in weeks or a couple of months and not 12 months.
+
+**PS:** I have seen senior engineers with 10–20 years of experience struggling to get a job because of few interview experience.
 
 ## Disclaimer
 
