@@ -18,6 +18,7 @@ I wrote an article that is an answer to all of these questions.
 ## Table of Contents
 
 - [Assumptions](#assumptions)
+- [Beware the Dunning–Kruger Effect](#beware-the-dunning-kruger-effect)
 - [Developer Roadmaps](#developer-roadmaps)
 - [Hard Skills Research](#hard-skills-research)
 - [Soft Skills](#soft-skills)
@@ -45,6 +46,24 @@ For this article I assume you already have
 
 - 1–3 years of experience with a programming language,
 - at least intermediate level of English.
+
+## Beware the Dunning-Kruger Effect
+
+[The Dunning-Kruger effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect) can affect engineers at every level, not only beginners:
+
+- juniors may overestimate their basics,
+- while senior engineers may overestimate their system design, leadership, or communication skills.
+
+Interview preparation can expose gaps that daily work does not always reveal, especially under time pressure or unfamiliar problem formats.
+
+The best antidote is honest feedback through
+
+- mock interviews,
+- code reviews,
+- peer discussion,
+- and comparing your solutions with strong alternatives.
+
+Stay confident, but keep testing your assumptions - strong candidates know their strengths, and they also know where they still need practice.
 
 ## Developer Roadmaps
 
