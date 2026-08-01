@@ -340,9 +340,9 @@ The situation and the job market are difficult, but there is still room for succ
 
 I anonymized all the people in these cases.
 
+- Brad, a Junior Automation Test Engineer (**3 years of prep, 0 work experience**) in Europe, found his first job in around **4–6 months** in 2025.
 - John, a Senior Backend Engineer from Europe (8+ years of work experience), found a job in **6 weeks** in 2026.
 - Axel, a Senior Frontend and Full Stack Engineer from Europe (10+ years of work experience), found a job in **4 weeks** in 2026.
-- Brad, a Junior Automation Test Engineer (3 years of prep, **0 work experience**) in Europe, found his first job in around **4–6 months** in 2025.
 
 **Warning:** years of work experience and seniority doesn't guarantee that you will be hired. These are only proofs that a person can get a job in weeks or a couple of months and not 12 months.
 
